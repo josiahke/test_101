@@ -1,5 +1,5 @@
 body {
-    padding-top: 50px
+    /*padding-top: 50px*/
 }
 
 body > .navbar {
@@ -22,6 +22,31 @@ body > .navbar {
 
 a {
     color: #A2A0AD !important;
+}
+
+.dark-footer {
+    background: #3D3B40;
+    color: white !important;
+}
+
+.dark-footer .row {
+    padding-left: 10px;
+    padding-righ: 10px;
+    padding-top: 10px;
+}
+
+.btn-purple {
+    border: 1px solid #99417B !important;
+    background: #99417B !important;
+    color: white !important;
+    border-radius: 0rem !important;
+}
+
+.btn-green {
+    border: 1px solid #A5C63B !important;
+    background: #A5C63B !important;
+    color: white !important;
+    border-radius: 0rem !important;
 }
 
 @media (min-width: 768px) {
@@ -111,7 +136,7 @@ a {
 }
 
 footer {
-    margin: 5em 0
+    /*margin: 5em 0*/
 }
 
 footer li {
