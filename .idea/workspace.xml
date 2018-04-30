@@ -34,10 +34,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seats/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            <state relative-caret-position="54">
+              <caret line="65" column="36" lean-forward="true" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
               <folding>
-                <marker date="1525124512932" expanded="true" signature="2587:2599" ph="..." />
+                <marker date="1525124635798" expanded="true" signature="2696:2708" ph="..." />
               </folding>
             </state>
           </provider>
@@ -46,7 +46,7 @@
       <file leaf-file-name="seats.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seats/seats.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="-119">
               <caret line="87" column="27" lean-forward="false" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
               <folding />
             </state>
@@ -68,8 +68,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>cockpit</find>
-      <find>plane</find>
       <find>footer</find>
+      <find>plane</find>
       <find>nth-child</find>
     </findStrings>
     <replaceStrings>
@@ -161,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525110667064</updated>
-      <workItem from="1525110669703" duration="9802000" />
+      <workItem from="1525110669703" duration="9959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9802000" />
+    <option name="totallyTimeSpent" value="9959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -226,7 +226,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seats/seats.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="-119">
           <caret line="87" column="27" lean-forward="false" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
           <folding />
         </state>
@@ -234,10 +234,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seats/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        <state relative-caret-position="54">
+          <caret line="65" column="36" lean-forward="true" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
           <folding>
-            <marker date="1525124512932" expanded="true" signature="2587:2599" ph="..." />
+            <marker date="1525124635798" expanded="true" signature="2696:2708" ph="..." />
           </folding>
         </state>
       </provider>

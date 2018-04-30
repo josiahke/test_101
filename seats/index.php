@@ -31,6 +31,9 @@ $json = json_decode($str, true);
 
     </div>
 
+    <hr>
+    <strong> Front Seats</strong>
+    <hr>
 
     <ol class="cabin fuselage">
         <li class="row row--1">
@@ -51,6 +54,10 @@ $json = json_decode($str, true);
                 ?>
         </li>
     </ol>
+
+    <hr>
+        <strong> Other Seats</strong>
+    <hr>
 
     <?php
     foreach($json['other_seats']['seats'] as $ky => $list ) {
